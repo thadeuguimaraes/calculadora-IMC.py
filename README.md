@@ -1,0 +1,1 @@
+# Nesse projeto foi desenvolvido um script python para cria uma calculadora IMC .
